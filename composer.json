@@ -1,0 +1,8 @@
+{
+    "name": "mkholod/homework_1_2",
+    "require": {
+        "silex/silex": "^2.2",
+        "phpunit/phpunit": "^6.4",
+        "symfony/stopwatch": "^3.3"
+    }
+}
